@@ -2,10 +2,10 @@
 ##### Creado con HTML5 y CSS3 en el Bootcamp de TecnolochicasPro
 
 ## ÍNDICE
-* [Intro]()
-* [¿Qué construí?]()
-* [Objetivos del Proyecto]()
-* [¡Link al Demo!]()
+* [Intro](https://github.com/KarenRamirez728/Google-Clone/blob/main/README.md#intro)
+* [¿Qué construí?](https://github.com/KarenRamirez728/Google-Clone/blob/main/README.md#qu%C3%A9-constru%C3%AD)
+* [Objetivos del Proyecto](https://github.com/KarenRamirez728/Google-Clone/blob/main/README.md#objetivo-del-proyecto)
+* [¡Link al Demo!](https://github.com/KarenRamirez728/Google-Clone/blob/main/README.md#link-al-demo)
 
 ***
 
